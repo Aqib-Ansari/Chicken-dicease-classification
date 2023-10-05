@@ -20,7 +20,9 @@ list_of_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb"
+    "research/trails.ipynb",
+    "templetes/index.html",
+    "app.py"
     
     ] 
 
